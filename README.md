@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 Atualmente estou em processo de inserção **na área de desenvolvimento**
+ 🔭 Atualmente estou em processo de inserção: **na área de desenvolvimento**
  
- 🌱 Estou aprendendo, neste momento **React & TypeScript**
+ 🌱 Estou aprendendo, neste momento: **React & TypeScript**
  
- ⚡ Fato interessante **Desde novo sou apaixonado em computadores, ao que me recordo, uso desde meus 3 anos.**
+ ⚡ Fato interessante: **Desde novo sou apaixonado em computadores, ao que me recordo, uso desde meus 3 anos.**
 
  </div>
  
@@ -31,7 +31,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<h2 align="center"> Linguagens, Frameworks e Ferramentas </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
@@ -42,7 +42,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> Minhas contribuições </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
@@ -51,7 +51,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Estatísticas ⚡</h2>
+<h2 align="center"> Estatísticas </h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=igorf08&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
