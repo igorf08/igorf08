@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 Atualmente estou em processo de inserção: **na área de desenvolvimento**
+ 🔭 Atualmente estou em processo de inserção *na área de desenvolvimento**
  
- 🌱 Estou aprendendo, neste momento: **React & TypeScript**
+ 🌱 Estou aprendendo, neste momento: **TypeScript & Testes unitários**
  
- ⚡ Fato interessante: **Desde novo sou apaixonado em computadores, ao que me recordo, uso desde meus 3 anos.**
+ ⚡ Fato interessante: **Desde novo apaixonado em computadores e em tecnologia.**
 
  </div>
  
