@@ -28,8 +28,8 @@
 <h2 align="center"> Linguagens, Frameworks e Ferramentas </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mysql"/><br>
+    <img src="https://skillicons.dev/icons?i=react,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,jest"/><br>
 </div>
 
 <br/>
