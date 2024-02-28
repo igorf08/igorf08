@@ -4,7 +4,7 @@
 
 <div align="center">
  
- 🔭 Atualmente estou em processo de inserção *na área de desenvolvimento**
+ 🔭 Atualmente estou em processo de inserção **na área de desenvolvimento**.
  
  🌱 Estou aprendendo, neste momento: **TypeScript & Testes unitários**
  
