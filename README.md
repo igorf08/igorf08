@@ -24,7 +24,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,vscode,github,tailwind,git,cypress" />
-    <img src="https://skillicons.dev/icons?i=nodejs,typescript,jest, laravel"/><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,jest,laravel, php"/><br>
 </div>
 
 <br/>
