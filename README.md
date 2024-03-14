@@ -23,8 +23,8 @@
 <h2 align="center"> Linguagens, Frameworks e Ferramentas </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,jest"/><br>
+    <img src="https://skillicons.dev/icons?i=react,vscode,github,tailwind,git,cypress" />
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,jest, laravel"/><br>
 </div>
 
 <br/>
