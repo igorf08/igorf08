@@ -6,7 +6,7 @@
  
  🔭 Atualmente estou em processo de inserção **na área de desenvolvimento**.
  
- 🌱 Estou aprendendo, neste momento: **TypeScript & Testes unitários**
+ 🌱 Estou aprendendo, neste momento: **PHP, Express e Node**
  
  ⚡ Fato interessante: **Desde novo apaixonado em computadores e em tecnologia.**
 
