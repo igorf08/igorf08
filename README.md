@@ -21,7 +21,7 @@
 <h2 align="center"> Linguagens, Frameworks e Ferramentas </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,vscode,javascript" />
+    <img src="https://skillicons.dev/icons?i=mongodb,vscode,javascript,insomnia,postman" />
     <img src="https://skillicons.dev/icons?i=nodejs,typescript"/><br>
 </div>
 
