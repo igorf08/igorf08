@@ -6,10 +6,8 @@
  
  🔭 Atualmente estou em processo de inserção **na área de desenvolvimento**.
  
- 🌱 Estou aprendendo, neste momento: **Laravel, Express e Node**
+ 🌱 Estou aprendendo, neste momento: **Express, Node e MongoDB**
  
- ⚡ Fato interessante: **Desde novo apaixonado em computadores e em tecnologia.**
-
  </div>
   </a>
   <a href="https://github.com/igorf08" target="_blank">
@@ -23,8 +21,8 @@
 <h2 align="center"> Linguagens, Frameworks e Ferramentas </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,typescript,"/><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,vscode,javascript" />
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript"/><br>
 </div>
 
 <br/>
