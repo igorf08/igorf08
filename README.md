@@ -1,42 +1,35 @@
-<h3 align="center">Admirador das artes de desenvolvimento e programação.</h3>
+## Olá 👋, Sou Igor!
 
 <br/>
-
-<div align="center">
- 
- 🔭 Atualmente estou em processo de inserção **na área de desenvolvimento**.
- 
- 🌱 Estou aprendendo, neste momento: **Express, Node e MongoDB**
- 
- </div>
-  </a>
-  <a href="https://github.com/igorf08" target="_blank">
-  </a>
-</div>
-<div align="center">
-  <a href="https://linkedin.com/in/igor-fabiano" target="_blank">
-</div>
- <hr/>
- 
-<h2 align="center"> Linguagens, Frameworks e Ferramentas </h2>
+Versátil e facilmente adaptável à diferentes situações. Amo descobrir, estudar novas tecnologias e investir tempo em aplicações que as utilizem. 
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,vscode,javascript,postman" />
-    <img src="https://skillicons.dev/icons?i=nodejs,typescript"/><br>
-</div>
-
 <br/>
-<hr/>
+  
+### 🧐 Sobre mim:
 
-<h2 align="center"> Estatísticas </h2>
+- 🌱 &nbsp; Estou atualmente aprendendo Typescript e React Native; 
+- 📫 &nbsp; Sinta-se à vontade para fazermos conexão no [LinkedIn](https://www.linkedin.com/in/igor-fabiano/)
+- 💬 &nbsp; Adepto da cumplicidade e proatividade. Me pergunte o que quiser, ajudarei no que puder;
+- 📚 &nbsp; Em tempo livre, pratico esportes e ouço bastante música. Amante de artes marciais e todo tipo de forma de atividade física.
+
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=igorf08&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=igorf08&count_private=true&show_icons=false&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=igorf08&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
-<br/><br/>
+### 🔨 Linguagens e Ferramentas:
+<a href="https://react.dev" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" height="42px"/> </a> 
+<a href="https://typescriptlang.org" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" alt="tensorflow" height="42px"/> </a> 
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://mui.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="figma" height='42px'/> </a>
 
-<hr/>
+<br>
+
+
+### 📊 Minhas estatísticas
+ ![Visão geral](https://github-readme-stats.vercel.app/api?username=igorf08&show_icons=true&theme=transparent)
+ ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=igorf08&layout=compact&theme=transparent)
+</a>
+
+<br>
+
+### 🛠️ Meus projetos
+<a href="https://e-carro.vercel.app/"><img src="https://raw.githubusercontent.com/igorf08/Projeto-SouEnergy/main/src/assets/favicon.ico" height="68" align="left"> E-carro</a>
