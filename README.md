@@ -1,7 +1,5 @@
-## Olá 👋, Sou Igor!
-
 <br/>
-Versátil e facilmente adaptável à diferentes situações. Amo descobrir, estudar novas tecnologias e investir tempo em aplicações que as utilizem. 
+###Versátil e facilmente adaptável à diferentes situações. Amo descobrir, estudar novas tecnologias e investir tempo em aplicações que as utilizem. 
 <br/>
 <br/>
   
