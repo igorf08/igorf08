@@ -12,7 +12,8 @@
 <a href="https://typescriptlang.org" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://mui.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="figma" height='42px'/> </a>
+<a href="https://mui.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="MaterialUI" height='42px'/> </a>
+<a href="https://php.net" target="_blank"> <img src="https://www.php.net/images/logos/php-logo-white.svg" alt="PHP" height='42px'/> </a>
 
 <br>
 
