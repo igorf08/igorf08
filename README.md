@@ -41,19 +41,12 @@ Gosto de criar coisas, automatizar processos e questionar a natureza da existên
 
 ## 📟 _Connection_Terminal.wrd_
 
-Se quiser conversar sobre código ou trocar ideias, sinta-se à vontade para estabelecer uma conexão:
-
 <div align="center">
-
-<!-- ÍCONES DE REDES SOCIAIS CUSTOMIZADOS -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=22d3ee)](https://github.com/igorf08)
-
-<br><br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 <i>`[ SYSTEM SHUTDOWN ]`</i>
 <br>
-<img src="https://img.shields.io/badge/Lain_Status-Online-brightgreen?style=social&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAMElEQVQ4T2NkYGD4z0AAMDKQA8Y0M4A0Y7AZMKYZQD4GRjNInAFjmhnAOKbHAAAAAElFTkSuQmCC" alt="Lain Online Badge">
+<img src="https://img.shields.io/badge/Lain_Status-Online-brightgreen" alt="Lain Online Badge">
 
 </div>
 <!-- FIM DO README -->
